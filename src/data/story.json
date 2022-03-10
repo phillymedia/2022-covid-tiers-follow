@@ -1,29 +1,164 @@
 {
-  "_id": "26K7UIYIUVBL3ACWTT6RZ4A26E",
-  "last_updated_date": "2021-12-07T14:42:14.855Z",
-  "display_date": "2021-10-21T14:31:19.717Z",
+  "_id": "FFK7J3ZUJJA67BF53TT7LBTDME",
+  "last_updated_date": "2022-03-10T17:57:56.309Z",
   "credits": {
     "by": [
       {
-        "byline": "Test Author",
-        "name": "Test Author",
-        "org": "Test Organization",
+        "_id": "pananjady_kasturi",
         "type": "author",
-        "version": "0.10.7"
+        "version": "0.5.8",
+        "name": "Kasturi Pananjady",
+        "image": {
+          "url": "",
+          "version": "0.5.8"
+        },
+        "description": "I mine data for insights to inform reporting and visual storytelling, and have a particular passion for accountability journalism. ",
+        "url": "https://www.inquirer.com/author/pananjady_kasturi/",
+        "slug": "",
+        "social_links": [
+          {
+            "site": "email",
+            "url": "kpananjady@inquirer.com"
+          },
+          {
+            "site": "twitter",
+            "url": "kpananjady"
+          }
+        ],
+        "socialLinks": [
+          {
+            "site": "email",
+            "url": "kpananjady@inquirer.com",
+            "deprecated": true,
+            "deprecation_msg": "Please use social_links."
+          },
+          {
+            "site": "twitter",
+            "url": "kpananjady",
+            "deprecated": true,
+            "deprecation_msg": "Please use social_links."
+          }
+        ],
+        "additional_properties": {
+          "original": {
+            "_id": "pananjady_kasturi",
+            "firstName": "Kasturi",
+            "lastName": "Pananjady",
+            "secondLastName": "",
+            "byline": "Kasturi Pananjady",
+            "role": "Staff writer",
+            "image": "",
+            "email": "kpananjady@inquirer.com",
+            "affiliations": "",
+            "education": [],
+            "awards": [],
+            "books": [],
+            "podcasts": [],
+            "twitter": "kpananjady",
+            "bio_page": "https://www.inquirer.com/author/pananjady_kasturi/",
+            "bio": "I mine data for insights to inform reporting and visual storytelling, and have a particular passion for accountability journalism. ",
+            "longBio": "I mine data for insights to inform reporting and visual storytelling, and have a particular passion for accountability journalism. ",
+            "slug": "",
+            "native_app_rendering": false,
+            "fuzzy_match": false,
+            "contributor": false,
+            "status": true,
+            "last_updated_date": "2022-01-04T13:37:43.893Z",
+            "type": "author"
+          }
+        }
+      },
+      {
+        "_id": "laughlin_jason",
+        "type": "author",
+        "version": "0.5.8",
+        "name": "Jason Laughlin",
+        "image": {
+          "url": "https://s3.amazonaws.com/arc-authors/pmn/2d33a6bf-4ffc-4a45-9a0c-1d9295ffb822.png",
+          "version": "0.5.8"
+        },
+        "description": "I write about a wide range of virus-related topics, including health care workers, vaccine distribution, and the effects of the coronavirus.",
+        "url": "https://www.inquirer.com/author/laughlin_jason/",
+        "social_links": [
+          {
+            "site": "email",
+            "url": "jlaughlin@inquirer.com"
+          },
+          {
+            "site": "twitter",
+            "url": "jasmlaughlin"
+          }
+        ],
+        "socialLinks": [
+          {
+            "site": "email",
+            "url": "jlaughlin@inquirer.com",
+            "deprecated": true,
+            "deprecation_msg": "Please use social_links."
+          },
+          {
+            "site": "twitter",
+            "url": "jasmlaughlin",
+            "deprecated": true,
+            "deprecation_msg": "Please use social_links."
+          }
+        ],
+        "additional_properties": {
+          "original": {
+            "_id": "laughlin_jason",
+            "lastName": "Laughlin",
+            "education": [],
+            "phone": "215-854-4587",
+            "org": "pmn",
+            "byline": "Jason Laughlin",
+            "email": "jlaughlin@inquirer.com",
+            "twitter": "jasmlaughlin",
+            "bio_page": "https://www.inquirer.com/author/laughlin_jason/",
+            "longBio": "I write about a wide range of virus-related topics, including health care workers, vaccine distribution, and the effects of the coronavirus.",
+            "author_type": "Staff",
+            "podcasts": [],
+            "type": "author",
+            "awards": [],
+            "books": [],
+            "source": {
+              "source_id": "327418171",
+              "additional_properties": {
+                "content_type": "Author"
+              }
+            },
+            "role": "Staff Writer",
+            "firstName": "Jason",
+            "last_updated_date": "2021-02-16T19:21:18.566Z",
+            "source_id": "327418171",
+            "image": "https://s3.amazonaws.com/arc-authors/pmn/2d33a6bf-4ffc-4a45-9a0c-1d9295ffb822.png",
+            "bio": "I write about a wide range of virus-related topics, including health care workers, vaccine distribution, and the effects of the coronavirus."
+          }
+        }
       }
     ]
   },
-  "label": {},
+  "label": {
+    "commission_team_1_required": {
+      "display": true,
+      "text": "Data",
+      "url": ""
+    },
+    "commission_team_2": {
+      "display": true,
+      "text": "Health",
+      "url": ""
+    }
+  },
   "headlines": {
-    "basic": "Documentation for All Archie Components",
+    "basic": "Philly tweaked its COVID tiers to keep up with the times. Did it go far enough?",
     "meta_title": "",
     "mobile": "",
     "native": "",
-    "print": "The Archie Block Roundup",
+    "print": "",
     "tablet": "",
     "web": ""
   },
   "subheadlines": {
-    "basic": "If you need help figuring out how to build your templated interactive, you’ve come to the right place."
+    "basic": ""
   }
 }
