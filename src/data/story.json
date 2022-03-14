@@ -1,6 +1,7 @@
 {
   "_id": "FFK7J3ZUJJA67BF53TT7LBTDME",
-  "last_updated_date": "2022-03-10T17:57:56.309Z",
+  "last_updated_date": "2022-03-13T10:16:08.072Z",
+  "display_date": "2022-03-13T11:00:00Z",
   "credits": {
     "by": [
       {
@@ -137,6 +138,82 @@
       }
     ]
   },
+  "promo_items": {
+    "basic": {
+      "_id": "PKJTVA3D6BE4BFI64WTPAUJSU4",
+      "additional_properties": {
+        "fullSizeResizeUrl": "/resizer/0gxC4yKgd4WRMdVz1M4CfHeSm_g=/arc-anglerfish-arc2-prod-pmn/public/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+        "galleries": [],
+        "keywords": [],
+        "mime_type": "image/jpeg",
+        "originalName": "COVID-F.JPG",
+        "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+        "proxyUrl": "/resizer/0gxC4yKgd4WRMdVz1M4CfHeSm_g=/arc-anglerfish-arc2-prod-pmn/public/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+        "published": true,
+        "resizeUrl": "/resizer/0gxC4yKgd4WRMdVz1M4CfHeSm_g=/arc-anglerfish-arc2-prod-pmn/public/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+        "restricted": false,
+        "takenOn": "2021-12-17T00:07:44Z",
+        "thumbnailResizeUrl": "/resizer/GT3_peODdbGPkoGBWd0sIM6Ws2A=/300x0/arc-anglerfish-arc2-prod-pmn/public/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+        "version": 1,
+        "visible_to_search": true,
+        "adapter_version": "0.8.0",
+        "expiry": "never"
+      },
+      "address": {
+        "locality": "Philadelphia",
+        "region": "PA"
+      },
+      "caption": "",
+      "copyright": "© Copyright 2021 The Philadelphia Inquirer",
+      "created_date": "2021-12-17T16:29:15Z",
+      "credits": {
+        "by": [
+          {
+            "name": "TOM GRALISH / Staff Photographer",
+            "type": "author"
+          }
+        ]
+      },
+      "distributor": {
+        "category": "staff",
+        "mode": "custom",
+        "name": "staff"
+      },
+      "geo": {},
+      "height": 2000,
+      "image_type": "photograph",
+      "last_updated_date": "2022-03-01T21:07:39Z",
+      "licensable": false,
+      "owner": {
+        "id": "pmn",
+        "sponsored": false
+      },
+      "slug": "COVID-F",
+      "source": {
+        "name": "Staff",
+        "source_id": "2803466",
+        "source_type": "staff",
+        "additional_properties": {
+          "content_type": "betadam_image",
+          "editor": "photo center"
+        },
+        "system": "betadam"
+      },
+      "subtitle": "COVID-F",
+      "taxonomy": {
+        "associated_tasks": []
+      },
+      "type": "image",
+      "url": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+      "version": "0.10.3",
+      "width": 3000,
+      "syndication": {
+        "external_distribution": true,
+        "search": true
+      },
+      "publish_date": "2021-12-17T00:07:44.000Z"
+    }
+  },
   "label": {
     "commission_team_1_required": {
       "display": true,
@@ -150,15 +227,15 @@
     }
   },
   "headlines": {
-    "basic": "Philly tweaked its COVID tiers to keep up with the times. Did it go far enough?",
-    "meta_title": "",
+    "basic": "Philly has changed its COVID-19 alert system. We broke it down for you.",
+    "meta_title": "Philadelphia changes new COVID-19 alert system to reflect more rapid antigen tests",
     "mobile": "",
     "native": "",
-    "print": "",
-    "tablet": "",
-    "web": ""
+    "print": "Breaking down the changes in Philly's COVID-19 alert system",
+    "tablet": "Philly has changed its COVID-19 alert system. We broke it down for you.",
+    "web": "Philly has changed its COVID-19 alert system. We broke it down for you."
   },
   "subheadlines": {
-    "basic": ""
+    "basic": "The system still relies on reported cases — even though experts expect those numbers to become increasingly unreliable with more home testing."
   }
 }

@@ -15,22 +15,22 @@
         {
           "type": "image",
           "value": {
-            "id": "PKJTVA3D6BE4BFI64WTPAUJSU4",
+            "id": "MN67QTQW7ZHFNLPX26KVIVJMWQ",
             "srcSet": [
               {
-                "src": "https://www.inquirer.com/resizer/nDAso2dTZknA_bzNnTuJTeYtyaE=/325x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+                "src": "https://www.inquirer.com/resizer/RCSUxAKBPZ9YOu6LFGM7KMXtrhQ=/325x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/MN67QTQW7ZHFNLPX26KVIVJMWQ.jpg",
                 "size": 325
               },
               {
-                "src": "https://www.inquirer.com/resizer/HwcDzI4Yuv2x8w-fGSoKN8quB4o=/650x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+                "src": "https://www.inquirer.com/resizer/ACbzFU_iHi1el2TiUN5jAWvKYjs=/650x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/MN67QTQW7ZHFNLPX26KVIVJMWQ.jpg",
                 "size": 650
               },
               {
-                "src": "https://www.inquirer.com/resizer/mbEgel8_eccQ_dwuWyZFc-DjIDI=/1300x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+                "src": "https://www.inquirer.com/resizer/bdlJk9eb6OF9r2zdQr9mU5KntJs=/1300x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/MN67QTQW7ZHFNLPX26KVIVJMWQ.jpg",
                 "size": 1300
               },
               {
-                "src": "https://www.inquirer.com/resizer/oOHQ_nJuF3QvrhKyS9ZSFRlNWEM=/2600x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/PKJTVA3D6BE4BFI64WTPAUJSU4.jpg",
+                "src": "https://www.inquirer.com/resizer/wJ-71fqRW1Y6OXdxvOujyRi2at0=/2600x0/cloudfront-us-east-1.images.arcpublishing.com/pmn/MN67QTQW7ZHFNLPX26KVIVJMWQ.jpg",
                 "size": 2600
               }
             ],
@@ -42,15 +42,27 @@
     },
     {
       "type": "text",
-      "value": "When Philadelphia tweaked its COVD-19 alert system last week, it immediately lifted its indoor mask mandate and brought the city in line with federal recommendations on masking."
+      "value": "When Philadelphia tweaked its [new COVD-19 alert system](https://www.inquirer.com/health/coronavirus/inq2/philadelphia-covid-alert-system-tiers-masks-cdc-20220301.html) last week, it immediately [lifted its indoor mask mandate](https://www.inquirer.com/health/coronavirus/philadelphia-mask-mandate-covid-cdc-20220302.html) and brought the city in line with federal recommendations on masking."
     },
     {
       "type": "text",
-      "value": "But the change makes it only marginally easier for Philly to stay unmasked, according to an Inquirer analysis. The tweak to the city’s positivity rate calculation does not change the systemic reasons that Philly’s makes it hard to unmask and stay unmasked. While lifting the mask mandate now, likely just a few weeks earlier than under the previous methodology, the new positivity rate would only have added two unmasked weeks over the previous two years."
+      "value": "But the change makes it only marginally easier for Philly to stay unmasked, according to an Inquirer analysis. The tweak to the city’s positivity rate calculation, which expanded the kinds of tests used to determine the percentage, doesn’t change the systemic reasons that Philly’s benchmarks make it hard to unmask and stay unmasked. The new approach to determining positivity rates lifted the mask mandate now, likely just a few weeks earlier than under the previous methodology."
     },
     {
       "type": "text",
-      "value": "And while the Philadelphia Department of Public Health says its new methodology was created to keep up with the times, the change doesn’t address the main challenge in data collection today: Our visibility into disease spread has diminished over time and will only get worse. Philly’s system remains reliant on reported cases — even though experts expect those numbers to become increasingly unreliable with increased home testing, the results of which aren’t often reported to the city.. The city acknowledges this problem, but has no solution for addressing it."
+      "value": "Prior to February 2022, applying the change to the entire pandemic would only have added one additional unmasked week over the past two years when compared to the previously announced system."
+    },
+    {
+      "type": "text",
+      "value": "And while the Philadelphia Department of Public Health says its new methodology was created to keep up with the times, the change doesn’t address the main challenge in data collection today: Testing isn't as useful as it once was in measuring community spread, and that will only get worse. Philly’s system remains reliant on reported cases — even though experts expect those numbers to become increasingly unreliable with more home testing, the results of which aren’t often reported to the city. The city acknowledges this shortcoming."
+    },
+    {
+      "type": "text",
+      "value": "Philadelphia isn’t alone in confronting this problem. Other cities have been more proactive in finding solutions."
+    },
+    {
+      "type": "text",
+      "value": "“As we see the viral load waning and maybe leaving the scene, I don’t think testing will be our way of tracking and looking for it coming back,” said Loren Hopkins, chief environmental science officer for the Houston Health Department, which has increasingly relied on testing wastewater to measure the virus’ presence in the city."
     },
     {
       "type": "ad",
@@ -58,11 +70,11 @@
     },
     {
       "type": "heading",
-      "value": "**The new positivity rate is lower than the old one, making it a little bit easier to get to All Clear**"
+      "value": "The new positivity rate is lower than the old one, making it a bit easier to get to ‘All Clear’"
     },
     {
       "type": "text",
-      "value": "Each week, the city sets a COVID alert level based on the positivity rate, the number of reported cases, the trend in reported cases and the number of COVID hospitalizations. Those alert tiers progressively trigger public health restrictions like masking, testing or vaccination verification in Philly businesses. All Clear is the only alert level where unmasking is permitted."
+      "value": "Every week, Philadlephia’s health department sets a COVID alert level based on the positivity rate, the number of reported cases, the trend in reported cases, and the number of COVID hospitalizations. Those alert tiers trigger public health restrictions like masking, testing, or vaccine mandates in city restaurants. “All Clear” is the only alert level that permits unmasking."
     },
     {
       "type": "text",
@@ -74,15 +86,11 @@
     },
     {
       "type": "text",
-      "value": "Previously, the city was only considering the results of PCR tests in its calculation of the positivity rate, a practice Health Commissioner Cheryl Bettigole described as a “historical artifact” in a press conference last week. That means that the city wasn’t counting any results from rapid antigen tests in its positivity numbers."
+      "value": "Previously, the city was only considering the results of gold standard PCR tests, a practice Health Commissioner Cheryl Bettigole described last week as a “historical relic.” It wasn’t counting results from rapid antigen tests."
     },
     {
       "type": "text",
-      "value": "The positivity rate is a measure of the amount of the virus circulating, as well as an indicator of whether a community is doing enough testing to paint an accurate picture of spread."
-    },
-    {
-      "type": "text",
-      "value": "But antigen tests have become increasingly common, both at testing sites and in the form of home tests, complicating the positivity rate. Home test results aren’t often reported to the city, but rapid tests done at testing sites are. When those rapid tests are included in the calculation, the positivity rate seen has been slightly lower than the PCR-only rate for nearly a year."
+      "value": "But antigen tests have become increasingly common, both at testing sites and in at-home tests, complicating the positivity rate. Home test results aren’t often reported to the city, but rapid tests conducted at testing sites are. When those rapid tests are included in the calculation, the positivity rate has been slightly lower than the PCR-only rate, a trend that’s been evident for almost a year."
     },
     {
       "type": "graphic",
@@ -93,15 +101,34 @@
     },
     {
       "type": "text",
-      "value": "PCR and antigen tests differ because of how they're used and who is getting tested. PCR tests are often administered in hospital and clinical settings, while antigen testing is frequently used in asymptomatic screening, particularly in schools, wrote James Garrow, Philly’s Department of Public Health spokesperson."
+      "value": "PCR and antigen tests differ because of how they're used and who’s getting tested. PCR tests are often administered in hospital and clinical settings, while antigen testing is frequently used in asymptomatic screening, particularly in schools, said James Garrow, a health department spokesperson."
     },
     {
       "type": "text",
-      "value": "“Generally, people who … seek out PCR testing have a reasonable suspicion that they’re sick or exposed,” Garrow wrote. “When people use antigen tests, especially in routine surveillance situations, that’s not the case.”"
+      "value": "“Generally, people who … seek out PCR testing have a reasonable suspicion that they’re sick or exposed,” Garrow wrote in an email. “When people use antigen tests, especially in routine surveillance situations, that’s not the case.”"
     },
     {
       "type": "text",
-      "value": "So while the new system will produce lower positivity numbers because of antigen tests, the city didn't revise its thresholds for triggering the alert levels. That means the positivity rate clears the All Clear threshold easier than it did previously."
+      "value": "The health department previously excluded antigen tests because only some at-home test results are self-reported, introducing a selection bias in the data."
+    },
+    {
+      "type": "text",
+      "value": "“Now that the situation has changed so dramatically, we can see that antigen tests should have been included from the start,” Garrow said."
+    },
+    {
+      "type": "text",
+      "value": "While the new system produces  lower positivity numbers, the city didn't revise its thresholds for triggering the alert levels. That means the positivity rate should make it easier to reach the All Clear threshold than before."
+    },
+    {
+      "type": "graphic",
+      "value": {
+        "id": "https://www.datawrapper.de/_/gmZz7/",
+        "align": "default"
+      }
+    },
+    {
+      "type": "text",
+      "value": "But positivity is only one of four factors considered in setting the city’s overall alert level."
     },
     {
       "type": "ad",
@@ -109,55 +136,45 @@
     },
     {
       "type": "heading",
-      "value": "**But the tweak doesn’t mean that the city as whole goes into All Clear much more often**"
+      "value": "But that doesn’t mean the city hits All Clear much more often"
     },
     {
       "type": "text",
-      "value": "It’s clear that the new methodology makes hitting All Clear a bit easier — after all, the change prompted the lifting of the city’s mask mandate."
+      "value": "The new methodology makes it easier for the city as a whole to hit All Clear — but not by much."
     },
     {
       "type": "text",
-      "value": "But it doesn’t make it that much easier."
+      "value": "The new system would have produced three more weeks of All Clear over the past two years than the previous one, the Inquirer analysis found: one more in the summer of 2021, and two more — so far — in February and March 2022."
+    },
+    {
+      "type": "graphic",
+      "value": {
+        "id": "https://flo.uri.sh/visualisation/8855861/embed"
+      }
     },
     {
       "type": "text",
-      "value": "The new system produces four more weeks of All Clear over the past two years than we would otherwise have seen — two more in the summer of 2021, last week, and this week, an Inquirer analysis found."
+      "value": "The city’s new methodology doesn’t change the main reason why it can be hard to unmask and stay unmasked: The metrics all have to line up, even though they may sometimes work against each other. Hospitalizations have never hit All Clear, so cases, the case trend, and the positivity rate all have to align for All Clear."
     },
     {
       "type": "text",
-      "value": "The city’s new methodology doesn’t change the main reason why it can be hard to unmask and stay unmasked: The metrics all have to line up, even though they may sometimes work against each other. Hospitalizations have never hit All Clear, so cases, the case trend, and the positivity rate all have to align in All Clear individually."
+      "value": "But cases and the case trend can compete with each other. When cases are low, even small variations can register as large percentage changes. Over the past two years, cases and change both hit All Clear at the same time for only 13 weeks."
     },
     {
       "type": "text",
-      "value": "But cases and the case trend can compete with each other, making All Clear an impossibility. When cases are low, even small variations can register as large percentage changes. Over the past two years, cases and change both hit All Clear at the same time only XX times; in XX other weeks, one of them was All Clear, but not both."
-    },
-    {
-      "type": "text",
-      "value": "THAT LEAVES VERY FEW OPPORTUNITIES FOR THE POSITIVITY RATE, EVEN WHEN IT'S LOWER, TO MAKE A DIFFERENCE IN SENDING THE CITY INTO ALL CLEAR."
+      "value": "That leaves very few opportunities for the positivity rate, even when it’s lower, to make a difference in sending the city into All Clear."
     },
     {
       "type": "heading",
-      "value": "**The new methodology produces a more complete picture of testing, but it****'s going to get worse**"
+      "value": "A more complete testing picture, but it's going to get worse."
     },
     {
       "type": "text",
-      "value": ""
+      "value": "The city is right to include antigen testing in its calculations, said Thersa Sweet, associate professor of biostatistics and epidemiology at Drexel."
     },
     {
       "type": "text",
-      "value": ""
-    },
-    {
-      "type": "text",
-      "value": "The city should be including antigen testing in its calculations, said Thersa Sweet, associate professor of biostatistics and epidemiology at Drexel."
-    },
-    {
-      "type": "text",
-      "value": "While antigen testing was non-existent two years ago, the speed and convenience of rapid tests have made them increasingly popular. Antigen tests made up nearly half of reported test results last week. The health department previously excluded antigen tests because some of those results are self-reported by people who take home tests, introducing a selection bias in the data."
-    },
-    {
-      "type": "text",
-      "value": "“Now that the situation has changed so dramatically, we can see that antigen tests should have been included from the start,” Garrow wrote."
+      "value": "While antigen testing was non-existent two years ago, the speed and convenience of rapid tests have made them increasingly popular. Antigen tests made up almost half of reported test results last week."
     },
     {
       "type": "graphic",
@@ -168,15 +185,43 @@
     },
     {
       "type": "text",
-      "value": "In practice, throwing out half of the reported test results in calculating the positivity rate produced unexpected outcomes. “We were trying to unpack why that positivity was staying stuck when cases continued to decline, it didn't really make sense to us,” Bettigole said last week."
+      "value": "Reported cases have always represented an undercount of true transmission, but official case counts are going to become even more unreliable with the rise of home testing."
     },
     {
       "type": "text",
-      "value": "Reported cases have always represented an undercount of true transmission, but official case counts are only going to become even more unreliable with the rise of home testing."
+      "value": "Even including antigen results doesn’t solve the larger issue of COVID tests becoming increasingly ineffective in tracking the virus. Like Houston, many places in the country are turning to wastewater testing as a more reliable measure."
     },
     {
       "type": "text",
-      "value": "In an interview two weeks ago, Garrow said reported case results still have value because people may have difficulty accessing home tests. But home testing is becoming increasingly available, and that shift means that three of the city’s four metrics for determining its COVID alert level will be based on increasingly limited data."
+      "value": "In addition to health departments having no reliable way to record the results of home tests, testing is inherently an imperfect way to track disease."
+    },
+    {
+      "type": "text",
+      "value": "“When there are so many people testing at home and therefore not reporting the tests, or people who are mildly ill and they are staying home and not getting tested at all, or people who are asymptomatic,” said Jennings Heussner, business development manager for Biobot Analytics, a Cambridge, Mass. company that is contracted by municipalities to conduct COVID wastewater testing. “None of those people are going to show up in the testing analytics.”"
+    },
+    {
+      "type": "text",
+      "value": "COVID’s reduced presence in an area makes tests even less likely to represent the actual state of the virus."
+    },
+    {
+      "type": "text",
+      "value": "Wastewater testing doesn’t require people to do anything other than use the bathroom, said Hopkins, of the Houston health department. That city conducts weekly sampling at 39 wastewater treatment plants, along with pumping locations and manholes citywide, she said. Genetic sequencing performed on samples can identify which variants are present in the water."
+    },
+    {
+      "type": "text",
+      "value": "The approach is also likely to catch signs of a COVID surge faster than tests would, Heussner said."
+    },
+    {
+      "type": "text",
+      "value": "“We’ve seen in our data it’s a pretty consistent leading indicator,” he said."
+    },
+    {
+      "type": "text",
+      "value": "The Houston program costs the city of almost 2.2 million people a little less than $19,700 a week to maintain, about a cent per person, Hopkins said, and is cheaper than maintaining a testing infrastructure. She anticipated her department could stop reviewing positivity rates entirely during times when COVID is on the wane."
+    },
+    {
+      "type": "text",
+      "value": "In an interview two weeks ago, Garrow said reported case results still have value because people may have difficulty accessing home tests. But the growing unreliability of testing as a tracking resource means three of the city’s four metrics for determining its COVID alert level will be based on increasingly limited data."
     },
     {
       "type": "text",
@@ -184,11 +229,11 @@
     },
     {
       "type": "text",
-      "value": "Asked about the limitations, Garrow said that the city was open to revising its thresholds and metrics, but no immediate changes are expected."
+      "value": "Asked about the limitations, Garrow said the city is open to revising its thresholds and metrics, but no immediate changes are expected. The city had a wastewater testing pilot program, and is exploring bringing it back."
     },
     {
       "type": "endmark",
-      "value": "“We continue to review all of the current metrics for utility and feasibility, and I wouldn’t be surprised if they changed in the future,” Garrow wrote. “We’re entering uncharted territory these days.”"
+      "value": "“We continue to review all of the current metrics for utility and feasibility, and I wouldn’t be surprised if they changed in the future,” Garrow said. “We’re entering uncharted territory these days.”"
     },
     {
       "type": "ad",
@@ -207,11 +252,23 @@
         },
         {
           "type": "text",
-          "value": "To compare the old and new positivity rates, The Inquirer scraped the weekly breakdown of PCR and antigen tests from the city's COVID-19 data dashboard."
+          "value": "To compare the old and new positivity rates, The Inquirer scraped the weekly breakdown of PCR and antigen tests from the city's [COVID-19 data dashboard](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/data/testing/)."
         },
         {
           "type": "text",
-          "value": "A limitation with retroactive analysis is that test data is revised constantly as results come in. As a result, the analysis uses more complete data on tests and cases than what would have been available in real-time. If the analysis had been performed on Monday each week over the past two years, the tier classification may have been different from what is shown here."
+          "value": "The data and analysis differ slightly from the Inquirer’s previous analysis. The previous analysis used numbers provided by the Department three weeks ago. The present analysis used numbers scraped from the city’s dashboard this past week."
+        },
+        {
+          "type": "text",
+          "value": "A limitation with using historical data is that it is revised constantly as results come in. As a result, this analysis uses more complete data on tests and cases than what would have been available in real-time. If the analysis had been performed on Monday each week over the past two years, the tier classification may have been different from what is shown here."
+        },
+        {
+          "type": "text",
+          "value": "The analysis uses the numbers released by the Department of Public Health at the time when the alert levels were set beginning the week of Feb. 22, after the city implemented its system."
+        },
+        {
+          "type": "text",
+          "value": "Hospitalization data are unavailable for Dec 20, 2021."
         }
       ]
     },
@@ -224,7 +281,7 @@
         },
         {
           "role": "Editing",
-          "names": "Jonathan Lai, Dan Hirschhorn"
+          "names": "Jonathan Lai, Dan Hirschhorn, Charlotte Sutton"
         },
         {
           "role": "Design and development",
